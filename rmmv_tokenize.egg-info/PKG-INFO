@@ -1,9 +1,0 @@
-Metadata-Version: 2.4
-Name: rmmv_tokenize
-Version: 0.1.0
-Summary: A Python package for RMMV tokenization
-Author: 
-Author-email: 
-Requires-Python: >=3.6
-Dynamic: requires-python
-Dynamic: summary

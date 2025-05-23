@@ -1,0 +1,52 @@
+rmmv_tokenize.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 环境/依赖
+.env
+.venv
+venv/
+build/
+dist/
+.eggs/
+*.egg
+*.egg-info/
+
+# 单元测试缓存
+.pytest_cache/
+
+# 覆盖率报告
+htmlcov/
+.coverage
+.coverage.*
+.cache
+
+# pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# pyre
+.pyre/
+
+# tox
+.tox/
+
+# 其他
+*.log
