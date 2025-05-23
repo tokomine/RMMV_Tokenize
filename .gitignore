@@ -1,4 +1,6 @@
 rmmv_tokenize.egg-info/
+_cache/
+
 __pycache__/
 *.pyc
 *.pyo
